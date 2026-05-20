@@ -1,9 +1,9 @@
 {
   "name": "世界书生成工具",
-  "short_name": "世界书",
+  "short_name": "世界书生成器",
   "description": "世界书生成和管理工具",
   "start_url": "./index.html",
-  "display": "fullscreen", // 这里改
+  "display": "fullscreen", 
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#6366f1",
